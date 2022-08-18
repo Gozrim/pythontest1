@@ -48,6 +48,3 @@ while command != "4":
             loan_book(loans_list,book_list,customer_list, loand_books)
         if action == "2":
             print(loans_list)
-
-    if command == "4":
-        print("4 selected")
