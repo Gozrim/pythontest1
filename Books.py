@@ -1,6 +1,7 @@
 from modules import Book
 
 print("hi")
+print("hello")
 def add_book(counter, book_list):
     counter += 1
     with open("book_rank.txt", "a") as file:
